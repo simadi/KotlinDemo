@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">我的第一个Kotlin程序</string>
+    <string name="edit_hint">请写点什么..</string>
+    <string name="edit_json_hint">请输入Url地址</string>
+    <string name="title">这里标题1</string>
+    <string name="content">这里是对话框内容</string>
+    <string name="sure">点击了确定按钮</string>
+    <string name="json_tips">本页面通过Kotlin实现json数据获取及解析,请输入一个ip</string>
+    <string name="json_url">http://ip.taobao.com/service/getIpInfo.php?ip=</string>
+
+    <string name="add_stu">添加学生数据</string>
+    <string name="update_stu">修改学生数据</string>
+    <string name="query_stu">查询学生表</string>
+    <string name="del_stu">删除学生数据</string>
+
+    <string name="first_tips">"温馨提示！"</string>
+    <string name="first_tips_contnet">"*Kotlin初学者，项目努力完善中...\n*DEMO存在诸多问题，请包涵指正\n*《Kotlin	for	android	Developers》学习中\n
+        欢迎学习交流QQ：1786911211"</string>
+
+</resources>
